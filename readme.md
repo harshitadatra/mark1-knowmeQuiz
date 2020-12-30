@@ -1,4 +1,4 @@
-#knowmeQuiz CLI App A CLI App to know more about Sakshi Jain.
+#knowmeQuiz CLI App A CLI App to know more about harshit adatra.
 
 It is a CLI app to know about me with some riddle questions! In this CLI app , guess the correct answer and update or win the score for you!
 
